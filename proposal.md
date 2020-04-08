@@ -33,7 +33,9 @@ Work on presentation (May 7)
 ## Resources
 
 [Position Based Fluids, Macklin & Muller (2007) ](http://mmacklin.com/pbf_sig_preprint.pdf)
-OpenGL
+
 [Ellipsoid Splatting](http://www.cs.rug.nl/~roe/courses/acg/rendering)
+
 [Rendering Water] (http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf)
 
+OpenGL
